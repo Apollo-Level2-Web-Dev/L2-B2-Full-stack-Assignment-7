@@ -252,7 +252,7 @@ Prepare the SQL code for table creation, sample data insertion, and the seven qu
 
 ### **Private Repo:**
 
-[Link](https://classroom.github.com/a/OfHRl2JS){:target="_blank"}
+[Link](https://classroom.github.com/a/OfHRl2JS)
 
 
 
