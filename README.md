@@ -228,7 +228,7 @@ Retrieve the department name and the average salary of employees in each departm
 | Marketing       | 63285.714285714286 |
 | Finance         | 58166.666666666667 |
 
-Prepare the SQL code for table creation, sample data insertion, and the seven queries in a text document or your preferred format. Include comments explaining each query's purpose and functionality. **Save your document as "postgreSQL_assignment.sql" or any other appropriate name.**
+Prepare the SQL code for table creation, sample data insertion, and the seven queries in a .sql file. Include comments explaining each query's purpose and functionality. **Save your document as "postgreSQL_assignment.sql" or any other appropriate name. don't add multiple file keep all the 7 queries in a single file**
 
 # **Private repository link**
 
@@ -248,6 +248,11 @@ Prepare the SQL code for table creation, sample data insertion, and the seven qu
 12.   **Explain the concept of a PostgreSQL view and how it differs from a table.**
 
 **Provide detailed answers to these questions in your assignment GitHub repository's README file as part of your assignment submission.**
+
+
+### **Submission:**
+
+- Submit only the GitHub repository link containg your solution file
 
 ### **Deadline:**
 
