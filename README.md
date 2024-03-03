@@ -250,6 +250,10 @@ Prepare the SQL code for table creation, sample data insertion, and the seven qu
 **Provide detailed answers to these questions in your assignment GitHub repository's README file as part of your assignment submission.**
 
 
+### **Private Repo:**
+'[https://classroom.github.com/a/OfHRl2JS](https://classroom.github.com/a/OfHRl2JS)'
+
+
 ### **Submission:**
 
 - Submit only the GitHub repository link containg your solution file
